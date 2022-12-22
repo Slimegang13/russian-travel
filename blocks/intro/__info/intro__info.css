@@ -1,0 +1,11 @@
+.intro__info {
+    margin: 0;
+    margin-bottom: 33px;
+    padding: 0;
+    max-width: 690px;
+    width: 100%;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}

@@ -1,0 +1,18 @@
+.place__info-url_padding {
+
+
+    padding-top: 30px;
+}
+
+@media screen and (max-width:320px) {
+
+
+    .place__info-url_padding {
+
+
+        padding-top: 0px;
+
+
+
+    }
+}

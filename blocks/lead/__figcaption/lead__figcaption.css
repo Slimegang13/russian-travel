@@ -1,0 +1,25 @@
+.lead__figcaption {
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin-top: 8px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+}
+
+@media screen and (max-width:768px) {
+
+    .lead__figcaption {
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width:320px) {
+
+    .lead__figcaption {
+        margin-left: 16px;
+    }
+}

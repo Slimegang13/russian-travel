@@ -1,0 +1,9 @@
+.header__li {
+    margin: 0;
+    padding: 0;
+}
+
+.header__li:first-of-type {
+
+    margin-right: 18px;
+}

@@ -1,5 +1,4 @@
 /* MAIN STYLES */
-
 @import url(../blocks/page/page.css);
 @import url(../blocks/body/body.css);
 
@@ -38,7 +37,6 @@
 /* PLACE */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
-@import url(../blocks/place/__info/place__info.css);
 @import url(../blocks/place/__info/_margin/place__info_margin.css);
 @import url(../blocks/place/__info-url/place__info-url.css);
 @import url(../blocks/place/__info-url/_padding/place__info-url_padding.css);

@@ -1,7 +1,6 @@
 .cover {
     position: relative;
     margin: 0 48px;
-    padding-top: 245px;
     box-sizing: border-box;
     max-width: 1184px;
     max-width: 100%;
@@ -15,13 +14,12 @@
 }
 
 .cover:hover .cover__overlay {
-    opacity: 80%;
+    background-color: rgba(42, 44, 47, 0.8);
 }
 
 @media screen and (max-width:1024px) {
 
     .cover {
-        padding-top: 195px;
         max-width: 1024px;
         margin-left: 0;
         margin-right: 0;
@@ -32,7 +30,6 @@
 @media screen and (max-width:768px) {
 
     .cover {
-        padding-top: 115px;
         max-width: 768px;
         margin-left: 0;
         margin-right: 0;
@@ -40,17 +37,10 @@
     }
 }
 
-@media screen and (max-width:600px) {
-
-    .cover {
-        padding-top: 200px;
-    }
-}
 
 @media screen and (max-width:320px) {
 
     .cover {
-        padding-top: 33px;
         max-width: 320px;
         margin-left: 0;
         margin-right: 0;

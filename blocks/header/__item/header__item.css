@@ -1,9 +1,9 @@
-.header__li {
+.header__item {
     margin: 0;
     padding: 0;
 }
 
-.header__li:first-of-type {
+.header__item:first-of-type {
 
     margin-right: 18px;
 }

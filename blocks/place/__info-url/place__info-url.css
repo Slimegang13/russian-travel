@@ -9,13 +9,6 @@
     color: rgba(170, 170, 170, 1);
 }
 
-@media screen and (max-width:768px) {
-
-    .place__info-url {
-
-        padding-top: 46px;
-    }
-}
 
 
 @media screen and (max-width:320px) {
